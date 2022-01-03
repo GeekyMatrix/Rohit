@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+int F,C;
+cout<<"Enter the value of fahrenhit"<<endl;
+cin>>F;
+C=(F-32)*5/9;
+cout<<"The value of celsius is"<<C<<endl;
+}
