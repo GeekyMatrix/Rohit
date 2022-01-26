@@ -2,7 +2,6 @@ class Solution {
   public:
     string triDownwards(string S){
      int N=S.length();
-        int k=N;
         string temp,ans="";
         for(int i=1;i<=N;i++){
             temp="";
