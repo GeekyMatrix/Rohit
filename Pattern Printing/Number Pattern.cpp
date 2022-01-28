@@ -5,7 +5,7 @@ vector<string> numberPattern(int N)
              temp="";
        for(int j=1;j<=i;j++){
   
-      temp+=to_string(j);
+      temp+=to_string(j);//to_string used for convert integer into string 
        }
       for(int k=i-1;k>=1;k--){
           
