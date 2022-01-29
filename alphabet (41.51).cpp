@@ -2,7 +2,6 @@
 using namespace std;
 int main(){
 int n;
-//char value='A';
 cin>>n;
 int i=1;
 while(i<=n){
